@@ -24,7 +24,7 @@ A creative full-stack developer from Egypt, building solutions that think outsid
 
 ---
 
-## 📬 Let's Connect
+## 📬 Let's get in touch.
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmoudmajed.b@gmail.com)
 
 ---
